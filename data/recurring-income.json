@@ -1,0 +1,59 @@
+{
+  "polychromes_per_pull": 160,
+  "sources": [
+    {
+      "key": "daily_errands",
+      "name": "Daily Activity (Errands & Scratch Card)",
+      "polychromes": 60,
+      "encrypted_master_tapes": 0,
+      "interval_days": 1,
+      "f2p": true,
+      "notes": "Exact daily total from Errands + Howl's Newsstand scratch card average baseline."
+    },
+    {
+      "key": "inter_knot_membership",
+      "name": "Inter-Knot Membership (Daily Login Pass)",
+      "polychromes": 90,
+      "encrypted_master_tapes": 0,
+      "interval_days": 1,
+      "f2p": false,
+      "notes": "90 Polychromes per daily login; 300 Monochrome purchase bonus excluded unless converted manually."
+    },
+    {
+      "key": "shiyu_defense",
+      "name": "Shiyu Defense (Critical Node Full S-Clear)",
+      "polychromes": 780,
+      "encrypted_master_tapes": 0,
+      "interval_days": 14,
+      "f2p": true,
+      "notes": "Assumes full S-Rank clear every 14-day cycle; adjust downward for partial clears."
+    },
+    {
+      "key": "deadly_assault",
+      "name": "Deadly Assault (6-Star Polychrome Tier)",
+      "polychromes": 300,
+      "encrypted_master_tapes": 0,
+      "interval_days": 14,
+      "f2p": true,
+      "notes": "All 300 Polychromes unlock at 6 total stars per 14-day cycle."
+    },
+    {
+      "key": "hollow_zero_bounty",
+      "name": "Hollow Zero Weekly Bounty Commissions",
+      "polychromes": 160,
+      "encrypted_master_tapes": 0,
+      "interval_days": 7,
+      "f2p": true,
+      "notes": "Weekly reset; 160 Polychromes = 1 Encrypted Master Tape per week."
+    },
+    {
+      "key": "fading_signal_shop",
+      "name": "Fading Signal Shop Monthly Reset",
+      "polychromes": 0,
+      "encrypted_master_tapes": 5,
+      "interval_days": 30,
+      "f2p": true,
+      "notes": "5 Encrypted Master Tapes refresh on the 1st of every calendar month."
+    }
+  ]
+}

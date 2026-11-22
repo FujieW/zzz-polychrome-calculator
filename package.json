@@ -1,0 +1,31 @@
+{
+  "name": "zzz-polychrome-calculator",
+  "version": "1.0.0",
+  "description": "Zero-dependency CLI pull planner, Markov soft-pity odds calculator, and open JSON banner/income dataset for Zenless Zone Zero (ZZZ).",
+  "type": "module",
+  "homepage": "https://polychromecalculator.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FujieW/zzz-polychrome-calculator.git"
+  },
+  "bin": {
+    "zzz-poly-calc": "./scripts/calc-pulls.mjs"
+  },
+  "scripts": {
+    "start": "node scripts/calc-pulls.mjs",
+    "table": "node scripts/calc-pulls.mjs --table"
+  },
+  "keywords": [
+    "zenless-zone-zero",
+    "zzz",
+    "polychrome-calculator",
+    "pity-calculator",
+    "gacha-probability",
+    "pull-planner",
+    "json-dataset"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}

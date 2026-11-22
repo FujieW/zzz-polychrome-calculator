@@ -1,0 +1,32 @@
+{
+  "polychromes_per_pull": 160,
+  "channels": {
+    "agent": {
+      "name": "Exclusive Channel (Limited S-Rank Agent)",
+      "published_base_rate": 0.006,
+      "published_consolidated_rate": 0.016,
+      "hard_pity": 90,
+      "soft_pity_start": 74,
+      "soft_pity_step": 0.06,
+      "pre_hard_cap": 0.99,
+      "featured_win_rate": 0.5,
+      "worst_case_zero_pity": 180,
+      "expected_pulls_per_s_rank": 62.5,
+      "expected_pulls_featured_from_zero": 93.4
+    },
+    "engine": {
+      "name": "W-Engine Channel (Signature S-Rank W-Engine)",
+      "published_base_rate": 0.01,
+      "published_consolidated_rate": 0.02,
+      "hard_pity": 80,
+      "soft_pity_start": 65,
+      "soft_pity_step": 0.07,
+      "pre_hard_cap": 0.99,
+      "featured_win_rate": 0.75,
+      "worst_case_zero_pity": 160,
+      "expected_pulls_per_s_rank": 50.2,
+      "expected_pulls_featured_from_zero": 62.8
+    }
+  },
+  "notes": "Base rates, consolidated rates, hard pity, and featured win rates match HoYoverse's published Signal Search details. Per-pull soft-pity ramps are community models calibrated to reproduce the published consolidated S-Rank rates (1.6% and 2.0%)."
+}

@@ -1,0 +1,42 @@
+{
+  "updated_at": "2026-11-22",
+  "timezone_note": "Version 3.4 schedule timestamps follow HoYoverse's official UTC+8 notices; Version 3.3 Phase 2 closes at 14:59 local server time.",
+  "phases": [
+    {
+      "version": "3.3",
+      "phase": 2,
+      "label": "Version 3.3 Phase 2",
+      "start_date": "2026-11-11",
+      "end_date": "2026-12-01",
+      "featured_agents": [
+        { "name": "Severian", "type": "debut" },
+        { "name": "Norma", "type": "rerun" }
+      ],
+      "official_notice": "https://zenless.hoyoverse.com/en-us/news/167269"
+    },
+    {
+      "version": "3.4",
+      "phase": 1,
+      "label": "Version 3.4 Phase 1",
+      "start_date": "2026-12-02",
+      "end_date": "2027-01-12",
+      "featured_agents": [
+        { "name": "Sunbringer", "type": "debut" },
+        { "name": "Robin", "type": "crossover", "note": "Also announced as obtainable for free via Version 3.4 login event" }
+      ],
+      "official_notice": "https://x.com/ZZZ_EN/status/2123731372984672333"
+    },
+    {
+      "version": "3.4",
+      "phase": 2,
+      "label": "Version 3.4 Phase 2",
+      "start_date": "2027-01-01",
+      "end_date": "2027-01-21",
+      "featured_agents": [
+        { "name": "Kafka", "type": "crossover", "end_date": "2027-01-21" },
+        { "name": "Alice", "type": "rerun", "end_date": "2027-01-12" }
+      ],
+      "official_notice": "https://x.com/ZZZ_EN/status/2123731906000994630"
+    }
+  ]
+}
