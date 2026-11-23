@@ -1,16 +1,19 @@
 # ZZZ Polychrome Calculator & Soft-Pity Probability Model
 
 [![Live Pull Planner](https://img.shields.io/badge/Live_Pull_Planner-polychromecalculator.com-d8fa00?style=flat-square&labelColor=0a0d12)](https://polychromecalculator.com/)
-[![Pity & 50/50 Odds](https://img.shields.io/badge/Agent_%26_W--Engine_Odds-Pity_Calculator-22d3ee?style=flat-square&labelColor=0a0d12)](https://polychromecalculator.com/zzz-pity-calculator)
+[![Pity & M0W1 Odds](https://img.shields.io/badge/M0W1_%26_50%2F50_Odds-Pity_Calculator-22d3ee?style=flat-square&labelColor=0a0d12)](https://polychromecalculator.com/zzz-pity-calculator)
+[![Rerun Tracker](https://img.shields.io/badge/1.0--3.4_Rerun_Wait-Banner_History-d8fa00?style=flat-square&labelColor=0a0d12)](https://polychromecalculator.com/zzz-banner-history)
 [![ZZZ Schedule](https://img.shields.io/badge/Schedule-Version_3.3_%26_3.4-ff7a2f?style=flat-square&labelColor=0a0d12)](https://polychromecalculator.com/zzz-upcoming-banners)
 [![License: MIT](https://img.shields.io/badge/License-MIT-slate?style=flat-square)](./LICENSE)
 
-Zero-dependency Node.js CLI calculator, exact Markov-chain soft-pity simulator, and open JSON dataset for **Zenless Zone Zero (ZZZ)** Signal Search pull planning.
+Zero-dependency Node.js CLI calculator, exact Markov-chain soft-pity & **M0W1** simulator, and open JSON dataset for **Zenless Zone Zero (ZZZ)** Signal Search pull planning.
 
-Mirrors the client-side math running on **[Polychrome Calculator](https://polychromecalculator.com/)** — calculate projected **Polychromes**, **Encrypted Master Tapes**, worst-case guarantees, and featured S-Rank probabilities without sign-ups, UID tracking, or pull-history imports.
+Mirrors the client-side math running on **[Polychrome Calculator](https://polychromecalculator.com/)** — calculate projected **Polychromes**, **Encrypted Master Tapes**, Version 3.4 F2P/Pass pull totals, **M0W1–M6** combined probabilities, and **1.0–3.4 S-Rank rerun wait days** without sign-ups, UID tracking, or pull-history imports.
 
-- **Interactive Browser Pull Planner:** [ZZZ Polychrome Calculator](https://polychromecalculator.com/)
-- **Agent (50/50) & W-Engine (75/25) Odds Table:** [ZZZ Pity Calculator](https://polychromecalculator.com/zzz-pity-calculator)
+- **Interactive Browser Pull Planner & 3.4 Preset (`~111 F2P / ~139 Pass Pulls`):** [ZZZ Polychrome Calculator](https://polychromecalculator.com/)
+- **Agent (50/50), W-Engine (75/25) & Combined `M0W1` Odds Calculator:** [ZZZ Pity Calculator](https://polychromecalculator.com/zzz-pity-calculator)
+- **Complete 1.0–3.4 Banner History & Rerun Wait Tracker:** [ZZZ Banner History](https://polychromecalculator.com/zzz-banner-history)
+- **Version 3.3 Deadlines & 3.4 Event Calendar:** [ZZZ Event Calendar](https://polychromecalculator.com/zzz-event-calendar)
 
 ---
 
